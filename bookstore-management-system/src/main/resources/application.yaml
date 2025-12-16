@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Book Store Management System
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: bookstoredb
+server:
+  port: 8081
